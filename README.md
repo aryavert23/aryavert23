@@ -1,6 +1,6 @@
 <img height="200" width="1000" src="https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" />
 <h1 align="center">Hey there, I'm <ins>Arya</ins>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
-____________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
 <h2 align="center"> CS student at Universitat de les Illes Balears since 2020 👨🏽‍💻</h2>
 
 ### Languages that I use or have interest 💻
