@@ -11,6 +11,6 @@
 
 ## My Github stats 📊
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aryavert23&show_icons=true&theme=synthwave" />
-<img align="left" width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavert23&layout=compact" />
+<img width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavert23&layout=compact" />
 
 
